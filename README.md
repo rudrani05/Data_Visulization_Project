@@ -1,6 +1,7 @@
 # Data_Visulization_Project
 We perform the data visulization on Olympics history over 120 years. This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
-![Olympic-Schedule-1](https://user-images.githubusercontent.com/60399242/145331093-15f6ffac-ce50-4660-8644-d48f8ccde192.jpg)
+
+                ![Olympic-Schedule-1](https://user-images.githubusercontent.com/60399242/145331093-15f6ffac-ce50-4660-8644-d48f8ccde192.jpg)
 
 ## Content
 
